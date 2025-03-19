@@ -1,2 +1,3 @@
 # curriculum
-A curriculum base I made using HTML5, CSS and JavaScript.
+A curriculum made with mainly HTML5 and CSS.
+JavaScript used to use Google Translate (testing)
